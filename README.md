@@ -1,0 +1,2 @@
+# QuickDevHelper
+help self
